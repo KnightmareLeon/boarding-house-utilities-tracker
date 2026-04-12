@@ -2,7 +2,15 @@
 
 UtiliTrack is a desktop application designed for rental property owners to track, manage, and analyze utility expenses across their units. Users can link units to utilities (like electricity, water, internet, etc.), log bills over time, and view cost trends through charts and visualizations. This helps identify inefficiencies, detect cost spikes, compare usage across units, and make data-driven decisions—such as whether to bundle shared utilities into rent. Ideal for managing anything from multi-room homes to large apartment complexes, UtiliTrack empowers owners to optimize expenses and improve financial performance.
 
+---
 
+### Utility Dashboard
+
+![Screenshot 1](./assets/screenshots/screenshot-1.png)
+
+### Unit Utilities
+
+![Screenshot 2](./assets/screenshots/screenshot-2.png)
 
 ## About
 This application was made for a school project for the course **CCC151 - Information Management**
